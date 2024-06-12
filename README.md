@@ -28,10 +28,10 @@ Welcome to my AI Learning Journey! This repository documents my transition from 
 
 I am a Java developer with experience in Python, currently exploring the fascinating world of Artificial Intelligence. This repository serves as my learning log, containing:
 
-- AI-related projects
-- Java-related projects
-- Tutorials and notes
-- Useful resources
+- 😄 AI-related projects
+- 🌱 Java-related projects
+- 🔭 Tutorials and notes
+- ⚡ Useful resources
 
 ## Resources
 
